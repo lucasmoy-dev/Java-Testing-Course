@@ -1,0 +1,10 @@
+# Intellij
+.idea/
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+
+/pitestdemo.iml
